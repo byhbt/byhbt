@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Ruby On Rails.
+🌱 I am RoR developer. Currently I am work on improving my Ruby On Rails skills by focus on daily work project and building [VnDevX](https://github.com/byhbt/vndevx) - open source platform for developers 👨‍💻.
 
 <!--
 **byhbt/byhbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
