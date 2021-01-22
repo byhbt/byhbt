@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I am web developer. Currently I am work on improving my Ruby On Rails skills by focus on daily work project and building [CodeSpace](https://github.com/byhbt/codespace) - open source platform for developers 👨‍💻.
+🌱 I am web developer. Currently I am work on improving my Ruby On Rails skills by focus on daily work project and building [CodeSpace](https://github.com/byhbt/ads-listing) - open source platform for developers 👨‍💻.
 
 <!--
 **byhbt/byhbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
