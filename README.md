@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-🌱 I am web developer. Currently I am work on improving my Ruby On Rails skills by focus on daily work project and building [AdsListing](https://github.com/byhbt/ads-listing) - open source platform for developers 👨‍💻.
+🌱 I am web developer. I am currently working on:
+
+- Ruby On Rails: building custom web application.
+- Solidus: build online web store.
+- Devops (AWS, Google Cloud, Heroku): automation deployment and server management.
 
 <!--
 **byhbt/byhbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
