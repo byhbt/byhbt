@@ -3,8 +3,8 @@
 🌱 I am web developer. I am currently working on:
 
 - Ruby On Rails: building custom web application.
-- Solidus: build online web store.
-- Devops (AWS, Google Cloud, Heroku): automation deployment and server management.
+- Go: build micro services and tools.
+- AWS: automation deployment and server management.
 
 <!--
 **byhbt/byhbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
