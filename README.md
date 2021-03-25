@@ -2,8 +2,7 @@
 
 🌱 I am web developer. I am currently working on:
 
-- Ruby On Rails: building custom web application.
-- Go: build micro services and tools.
+- Elixir: building custom web application.
 - AWS: automation deployment and server management.
 
 <!--
