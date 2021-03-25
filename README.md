@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-🌱 I am web developer. I am currently working on:
+🌱 I am Web developer 🕸
 
-- Elixir: building custom web application.
-- AWS: automation deployment and server management.
 
 <!--
 **byhbt/byhbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
