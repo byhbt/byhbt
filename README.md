@@ -3,6 +3,8 @@
 🌱 I am Web developer 🕸
 
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S44HID9)
+
 <!--
 **byhbt/byhbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
